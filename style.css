@@ -6,20 +6,8 @@ body{
     background-image: linear-gradient(120deg, #f6d365 0%,#fda085 100%);
     text-align: center;
 }
-a:link {
-  color: yellow;
-}
-
-a:visited {
-  color: #8b4513;
-}
-
-a:hover {
-  color: lightgreen;
-}
-
-a:active {
-  color: hotpink;
+a{
+  color:#8b4513 ;
 } 
 .card:hover{
     transform: scale(0.95);
