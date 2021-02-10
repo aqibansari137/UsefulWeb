@@ -7,8 +7,8 @@ body{
     text-align: center;
 }
 h3{
-    text-decoration:none;
-    color:saddlebrown;
+    text-decoration: none;
+    color:#8b4513;
 }
 .card:hover{
     transform: scale(0.95);
