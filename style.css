@@ -14,7 +14,6 @@ a{
 }
 .card{
     display: inline-block;
-    color:#8b4513;
     background-color: #fae3c8;
     box-shadow: 4px 4px 8px 0 rgb(0 0 0 / 20%);
     border-radius: 10px;
